@@ -1,1 +1,1 @@
-export type { User, AuthResponse, Patient, FichierMedical, DossierMedical } from './types';
+export type { User, AuthResponse, Patient, FichierMedical, DossierMedical } from './index';
